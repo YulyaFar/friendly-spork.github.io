@@ -1,0 +1,43 @@
+@import url('footer.css');
+@import url('header.css');
+@import url('layout.css');
+.main_contants_blok {
+padding-left: calc(50%-1268px/2);
+padding-right: calc(50%-1268px/2);
+flex-grow: 1;
+}
+.main_cotacts {
+margin-left: 200px;  
+margin-top: 33px;
+margin-bottom: 25px;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+color: #000000;
+}
+.map {
+padding-left: 86px;
+padding-right: 86px;   
+}
+.contacts_subtitle {
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+margin-left: 200px;
+margin-top: 15px;
+margin-bottom: 10px;
+}
+.blok_contacts {
+margin-left: 200px; 
+}
+.address__subtitle {
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+}
+.link__phone {
+display: block;
+color: #000000;
+margin-top: 15px;
+}

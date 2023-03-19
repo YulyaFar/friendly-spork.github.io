@@ -1,0 +1,48 @@
+@import url('footer.css');
+@import url('header.css');
+@import url('layout.css');
+.content_students {
+padding-left: 330px;
+padding-left: calc(50% - 1143px - 2);
+padding-right: calc(50% - 1143px - 2);
+}
+.subtitle {
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 36px;
+color: #000000;
+margin-top: 37px;
+}
+.students {
+margin-top: 24px;
+display: flex;
+gap: 50px;
+flex-wrap: wrap;
+}
+.student {
+width: 200px;
+position: relative;
+}
+.student_new {
+position: absolute;
+top: -12px;
+right: -13px;
+background: #3AA828;
+border-radius: 20px;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+padding: 1px 4px 1px 6px;
+}
+.student_name {
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #000000;
+text-align: center;
+margin-top: 8px;
+}

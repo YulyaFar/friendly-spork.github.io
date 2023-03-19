@@ -1,0 +1,29 @@
+@import url('footer.css');
+@import url('header.css');
+@import url('layout.css');
+.about {
+justify-content: center;
+display: flex;
+align-items: center;  
+flex-direction: column;
+}
+.heading_about {
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+color: #000000;
+margin-bottom: 25px;
+margin-top: 33px; 
+}
+.text {
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+color: #000000;
+margin-bottom: 15px;
+}
+.img_search{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}

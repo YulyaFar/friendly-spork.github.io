@@ -1,0 +1,55 @@
+@import url('footer.css');
+@import url('header.css');
+@import url('layout.css');
+.content {
+padding-left: 265px;
+}
+.title {
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+color: #000000;
+text-align: center;
+margin-bottom: 25px;
+margin-top: 33px;
+}
+.content_info {
+display: flex;
+justify-content: space-between;
+margin-top: 15px;
+}
+.content_section {
+width: 634px;    
+}
+.subtitle {
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+margin-bottom: 10px;
+}
+.about_text {
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+margin-bottom: 15px;       
+}
+.heading {
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 45px;
+color: #646464;
+width: 129px;
+padding-top: 30px;
+padding-right: 265px;
+font-family: 'Lobster', cursive;
+opacity: 92%;
+}
+.fond_bold {
+font-weight: bold;
+}
+
